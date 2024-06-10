@@ -22,8 +22,8 @@
 		<h2>Conclusão:</h2>
 		<p>Esse foi um exemplo simples de uso das ferramentas de Machine Learning para construir um modelo preditivo, pelo resultado, podemos observar que o RandomForestRegressor 
   		obteve um melhor desempenho  
-  		com aproximadamente 91% de acerto nas estimativas realizadas, ou seja, foi o modelo que melhor se ajustou aos dados.<br> Cabe salientar que esse 			
-    		desempenho ainda pode ser melhorado utilizando ajustes no hiperparametros dos modelos, mas não foi o objetivo deste trabalho!
+  		com aproximadamente 91% de acerto nas estimativas realizadas, ou seja, foi o modelo que melhor se ajustou aos dados.<br> 
+		Cabe destacar que esse desempenho ainda pode ser melhorado utilizando ajustes nos hiperparametros do modelo, mas não foi o objetivo deste trabalho!
 		</p>	
 	</body>
  
